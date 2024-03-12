@@ -1,5 +1,5 @@
 # Step-by-Step del kit de arranque
-Bienvenido al ecosistema TwinDimension, nuestra misión con el kit de arranque es ofrecer una experiencia provechosa en tu primera interacción con nuestro stack tecnológico, con nuestros videos, especialmente elaborados para la ocasión, te guiaremos en cada paso con los conocimientos básicos, además el kit contiene todas las herramientas necesarias para que puedas empezar a explotar las utilidades que nuestra tecnología ofrece.
+<p>Bienvenido al ecosistema TwinDimension, nuestra misión con el kit de arranque es ofrecer una experiencia provechosa en tu primera interacción con nuestro stack tecnológico, con nuestros videos, especialmente elaborados para la ocasión, te guiaremos en cada paso con los conocimientos básicos, además el kit contiene todas las herramientas necesarias para que puedas empezar a explotar las utilidades que nuestra tecnología ofrece.</p>
 Nuestro playlist de videos esta disponible en [YouTube](https://youtube.com/playlist?list=PLmecq_qgq7N60ZPtD89jeI6rPIi_TgfCm&si=n4XJW3ag5-GRLOFD) acompañándote por el siguiente recorrido:
 ### Unboxing
 
